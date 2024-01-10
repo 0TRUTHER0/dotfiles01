@@ -25,3 +25,7 @@ i use <a href="https://nvchad.com/docs/">NvChad</a> for neovim
 #### - Type faster with:
 `repeat_rate = 30
 repeat_delay = 300`
+### general + master
+#### - Master layout ( for those who likes dwm way of splitting windows )
+`layout = master`
+### + no rounding windows and no gaps
