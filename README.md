@@ -14,4 +14,7 @@ these are my config files for my GNU/linux :)!.<br>
 i use <a href="https://nvchad.com/docs/">NvChad</a> for neovim
 
 #### Preview:
-<img src="./github/walls/preview1.png">
+<img src="./github/walls/preview.png">
+<br>
+<img src="./github/walls/preview.png">
+
