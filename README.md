@@ -1,5 +1,5 @@
 ## Hey there!<br>
-these are my config files for my GNU/linux :)!.<br>
+these are my config files for my GNU/linux distro :)!.<br>
 ## Features
 <ul>
   <li><strong>OS:</strong> <a href="https://archlinux.org">Archlinux</a></li>
