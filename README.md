@@ -16,5 +16,5 @@ i use <a href="https://nvchad.com/docs/">NvChad</a> for neovim
 #### Preview:
 <img src="./github/walls/preview.png">
 <br>
-<img src="./github/walls/preview.png">
+<img src="./github/walls/preview2.png">
 
