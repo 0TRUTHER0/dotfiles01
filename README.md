@@ -19,10 +19,6 @@ i use <a href="https://nvchad.com/docs/">NvChad</a> for neovim
 <img src="./github/walls/preview2.png">
 
 ## What is on hyprland.conf?
-#### input section:
-<ul>
-  <li>Make capslock key useful!
-    <pre>
-      kb_options = caps:swapescape
-    </pre>
-  </li>
+### input section:
+#### - Make CapsLock Key useful !
+`kb_options = caps:swapescape`
