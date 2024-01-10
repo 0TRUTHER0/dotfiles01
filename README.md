@@ -18,3 +18,4 @@ i use <a href="https://nvchad.com/docs/">NvChad</a> for neovim
 <br>
 <img src="./github/walls/preview2.png">
 
+#### what is on hyprland.conf?
