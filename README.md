@@ -22,3 +22,6 @@ i use <a href="https://nvchad.com/docs/">NvChad</a> for neovim
 ### input section:
 #### - Make CapsLock Key useful !
 `kb_options = caps:swapescape`
+#### - Type faster with:
+`repeat_rate = 30
+repeat_delay = 300`
