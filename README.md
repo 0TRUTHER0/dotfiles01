@@ -28,4 +28,12 @@ repeat_delay = 300`
 ### general + master
 #### - Master layout ( for those who like dwm way of splitting windows )
 `layout = master`
-### + no rounding windows and no gaps
+### + no gaps
+
+## Keybindings
+`ctrl+d = discord`
+`ctrl+m = wofi menu`
+`ctrl+return = foot`
+`ctrl+t = show time as a notification`
+`ctrl+y = show batterie as a notification`
+`ctrl+b = floorp browser`
